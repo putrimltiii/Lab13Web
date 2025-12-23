@@ -19,4 +19,4 @@
 ## Menambahkan Produk / Data Barang
 <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/6e4d214e-e989-45dc-a5f7-896eb98b9e88" />
 
-
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/c1f8edc2-5978-4380-ac2a-bfa6a0180608" />
